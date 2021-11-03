@@ -36,7 +36,7 @@ Expected output
 001 : Highest%11s%n%4d%12d%n
 ```
 
-Test 408
+### Test 408
 
 Program output
 ```
